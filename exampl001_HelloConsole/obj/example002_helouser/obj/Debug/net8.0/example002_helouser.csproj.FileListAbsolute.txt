@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\bin\Debug\net8.0\example002_helouser.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\bin\Debug\net8.0\example002_helouser.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\bin\Debug\net8.0\example002_helouser.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\bin\Debug\net8.0\example002_helouser.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\bin\Debug\net8.0\example002_helouser.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\refint\example002_helouser.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\example002_helouser.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\exampl001_HelloConsole\obj\example002_helouser\obj\Debug\net8.0\ref\example002_helouser.dll

@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\bin\Debug\net8.0\example021_s.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\bin\Debug\net8.0\example021_s.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\bin\Debug\net8.0\example021_s.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\bin\Debug\net8.0\example021_s.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\bin\Debug\net8.0\example021_s.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\refint\example021_s.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\example021_s.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example021_s\obj\Debug\net8.0\ref\example021_s.dll

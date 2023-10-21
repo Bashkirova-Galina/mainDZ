@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\bin\Debug\net8.0\example012_writline.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\bin\Debug\net8.0\example012_writline.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\bin\Debug\net8.0\example012_writline.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\bin\Debug\net8.0\example012_writline.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\bin\Debug\net8.0\example012_writline.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\refint\example012_writline.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\example012_writline.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example012_writline\obj\Debug\net8.0\ref\example012_writline.dll

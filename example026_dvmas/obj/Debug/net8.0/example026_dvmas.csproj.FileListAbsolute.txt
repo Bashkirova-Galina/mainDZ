@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\bin\Debug\net8.0\example026_dvmas.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\bin\Debug\net8.0\example026_dvmas.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\bin\Debug\net8.0\example026_dvmas.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\bin\Debug\net8.0\example026_dvmas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\bin\Debug\net8.0\example026_dvmas.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\refint\example026_dvmas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\example026_dvmas.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example026_dvmas\obj\Debug\net8.0\ref\example026_dvmas.dll

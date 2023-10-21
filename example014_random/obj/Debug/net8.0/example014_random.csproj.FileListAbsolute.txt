@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\bin\Debug\net8.0\example014_random.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\bin\Debug\net8.0\example014_random.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\bin\Debug\net8.0\example014_random.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\bin\Debug\net8.0\example014_random.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\bin\Debug\net8.0\example014_random.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\refint\example014_random.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\example014_random.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example014_random\obj\Debug\net8.0\ref\example014_random.dll

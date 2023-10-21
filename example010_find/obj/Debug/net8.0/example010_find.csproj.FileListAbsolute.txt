@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\bin\Debug\net8.0\example010_find.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\bin\Debug\net8.0\example010_find.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\bin\Debug\net8.0\example010_find.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\bin\Debug\net8.0\example010_find.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\bin\Debug\net8.0\example010_find.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\refint\example010_find.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\example010_find.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example010_find\obj\Debug\net8.0\ref\example010_find.dll

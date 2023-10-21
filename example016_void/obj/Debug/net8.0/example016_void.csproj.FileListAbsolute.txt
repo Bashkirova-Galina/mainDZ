@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\bin\Debug\net8.0\example016_void.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\bin\Debug\net8.0\example016_void.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\bin\Debug\net8.0\example016_void.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\bin\Debug\net8.0\example016_void.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\bin\Debug\net8.0\example016_void.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\refint\example016_void.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\example016_void.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example016_void\obj\Debug\net8.0\ref\example016_void.dll

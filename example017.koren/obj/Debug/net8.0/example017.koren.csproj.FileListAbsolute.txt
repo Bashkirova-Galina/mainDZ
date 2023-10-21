@@ -1,0 +1,4 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example017.koren\obj\Debug\net8.0\example017.koren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example017.koren\obj\Debug\net8.0\example017.koren.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example017.koren\obj\Debug\net8.0\example017.koren.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example017.koren\obj\Debug\net8.0\example017.koren.csproj.CoreCompileInputs.cache

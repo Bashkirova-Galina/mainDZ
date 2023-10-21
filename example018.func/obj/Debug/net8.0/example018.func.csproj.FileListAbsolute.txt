@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\bin\Debug\net8.0\example018.func.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\bin\Debug\net8.0\example018.func.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\bin\Debug\net8.0\example018.func.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\bin\Debug\net8.0\example018.func.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\bin\Debug\net8.0\example018.func.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\refint\example018.func.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\example018.func.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example018.func\obj\Debug\net8.0\ref\example018.func.dll

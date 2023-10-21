@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\bin\Debug\net8.0\example007_magik.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\bin\Debug\net8.0\example007_magik.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\bin\Debug\net8.0\example007_magik.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\bin\Debug\net8.0\example007_magik.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\bin\Debug\net8.0\example007_magik.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\refint\example007_magik.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\example007_magik.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example007_magik\obj\Debug\net8.0\ref\example007_magik.dll

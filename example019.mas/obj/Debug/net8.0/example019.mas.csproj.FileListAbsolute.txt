@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\bin\Debug\net8.0\example019.mas.exe
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\bin\Debug\net8.0\example019.mas.deps.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\bin\Debug\net8.0\example019.mas.runtimeconfig.json
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\bin\Debug\net8.0\example019.mas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\bin\Debug\net8.0\example019.mas.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\refint\example019.mas.dll
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.pdb
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\example019.mas.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Рабочий стол\examples\example019.mas\obj\Debug\net8.0\ref\example019.mas.dll
